@@ -1,4 +1,4 @@
-# conky-clock
+# conky-simple-clock
 ## Preview: 
 ![conky-clock](https://user-images.githubusercontent.com/67067737/135631645-85322557-e248-4d97-8371-910aae7ccf00.png)
 
